@@ -6,10 +6,10 @@
   "store_url": "ms-windows-store://pdp/?ProductId=9P2QFGQZJBBG",
   "web_url": "https://apps.microsoft.com/detail/9P2QFGQZJBBG",
   "changelog": [
-    "🪄 Riconoscimento intelligente campi modulo: rileva le righe (_____) e le converte in campi interattivi compilabili a computer con un clic.",
-    "🔤 Motore Font Intelligente con Auto-Matching: rileva il font originale del PDF (Calibri, Arial, Segoe UI, Times New Roman, Georgia, Consolas...) e lo incorpora con fedeltà al 100%.",
-    "🎨 Nuova interfaccia superiore 'Studio': schede chiare per Visualizza, Modifica, Annota, Compila & Firma e Organizza Pagine.",
-    "🖼️ Editing ed esportazione immagini stile Acrobat: seleziona, esporta o modifica direttamente con Microsoft Paint, Photoshop o l'editor predefinito.",
-    "🔔 Notifiche aggiornamenti in-app con changelog integrato e apertura a un tocco del Microsoft Store."
+    "Compilazione intelligente dei moduli: rileva in automatico gli spazi e le righe da compilare, trasformandoli istantaneamente in campi di testo editabili a computer.",
+    "Adattamento automatico dei caratteri: quando modifichi un testo, il software riconosce e applica automaticamente lo stesso stile e carattere tipografico del documento originale.",
+    "Interfaccia rinnovata e più intuitiva: nuova suddivisione fluida tra lettura, modifica del testo, annotazioni, compilazione moduli e gestione delle pagine.",
+    "Gestione avanzata delle immagini: seleziona, salva in alta qualità o apri qualsiasi immagine direttamente con i programmi di grafica del tuo computer, con sincronizzazione immediata delle modifiche nel documento.",
+    "Notifiche di aggiornamento integrate: visualizzazione delle novità introdotte e accesso rapido allo Store per rimanere sempre all'ultima versione."
   ]
 }
