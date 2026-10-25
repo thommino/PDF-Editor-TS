@@ -6,9 +6,10 @@
   "store_url": "ms-windows-store://pdp/?ProductId=9P2QFGQZJBBG",
   "web_url": "https://apps.microsoft.com/detail/9P2QFGQZJBBG",
   "changelog": [
-    "🪄 Riconoscimento intelligente campi modulo: rileva le righe vuote (_____) e le converte in campi compilabili con un clic.",
-    "🖼️ Editing ed esportazione immagini stile Acrobat: seleziona, esporta o modifica direttamente con Microsoft Paint o Photoshop.",
-    "🔔 Notifiche aggiornamenti in-app con changelog e apertura rapida del Microsoft Store.",
-    "🔍 Rendering High-DPI nitido su display 2K/4K."
+    "🪄 Riconoscimento intelligente campi modulo: rileva le righe (_____) e le converte in campi interattivi compilabili a computer con un clic.",
+    "🔤 Motore Font Intelligente con Auto-Matching: rileva il font originale del PDF (Calibri, Arial, Segoe UI, Times New Roman, Georgia, Consolas...) e lo incorpora con fedeltà al 100%.",
+    "🎨 Nuova interfaccia superiore 'Studio': schede chiare per Visualizza, Modifica, Annota, Compila & Firma e Organizza Pagine.",
+    "🖼️ Editing ed esportazione immagini stile Acrobat: seleziona, esporta o modifica direttamente con Microsoft Paint, Photoshop o l'editor predefinito.",
+    "🔔 Notifiche aggiornamenti in-app con changelog integrato e apertura a un tocco del Microsoft Store."
   ]
 }
