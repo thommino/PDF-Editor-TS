@@ -1,0 +1,14 @@
+{
+  "latest_version": "1.5.2",
+  "min_required_version": "1.5.0",
+  "release_date": "2026-10-25",
+  "title": "Nuova versione disponibile!",
+  "store_url": "ms-windows-store://pdp/?ProductId=9P2QFGQZJBBG",
+  "web_url": "https://apps.microsoft.com/detail/9P2QFGQZJBBG",
+  "changelog": [
+    "🪄 Riconoscimento intelligente campi modulo: rileva le righe vuote (_____) e le converte in campi compilabili con un clic.",
+    "🖼️ Editing ed esportazione immagini stile Acrobat: seleziona, esporta o modifica direttamente con Microsoft Paint o Photoshop.",
+    "🔔 Notifiche aggiornamenti in-app con changelog e apertura rapida del Microsoft Store.",
+    "🔍 Rendering High-DPI nitido su display 2K/4K."
+  ]
+}
