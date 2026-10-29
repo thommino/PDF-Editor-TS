@@ -1,15 +1,15 @@
 {
-  "latest_version": "1.5.4",
+  "latest_version": "1.5.5",
   "min_required_version": "1.5.0",
   "release_date": "2026-10-29",
   "title": "Nuova versione disponibile!",
   "store_url": "ms-windows-store://pdp/?ProductId=9P2QFGQZJBBG",
   "web_url": "https://apps.microsoft.com/detail/9P2QFGQZJBBG",
   "changelog": [
-    "⚡ Risoluzione crash editing testo: corretta l'anomalia di selezione caratteri su documenti commerciali e fatture complesse per un'esperienza di modifica immediata e stabile al 100%.",
-    "📝 Digitazione su sfondo e contrasto Dark Mode: eliminato il blocco bianco coprente e garantita massima visibilità del testo digitato su qualsiasi sfondo o tema di sistema.",
-    "🛡️ Sanitizzazione intelligente su incolla: ripulitura istantanea di caratteri non validi o codifiche corrotte da PDF e gestionali per prevenire quadratini vuoti.",
-    "🔤 Catalogo caratteri raddoppiato: aggiunti oltre 10 nuovi font professionali tra cui Century Gothic, Garamond, Palatino, Bookman, Impact, Corbel, Candara e Constantia.",
-    "🪄 Riconoscimento intelligente dei moduli: converte in un clic linee tratteggiate e moduli cartacei in campi compilabili a computer."
+    "📐 Ridimensionamento & Allargamento Campi: maniglie laterali (↔) e d'angolo (↘) per ridimensionare campi e testo, con auto-espansione in tempo reale durante la scrittura.",
+    "⚡ Risoluzione Crash Modifica Testo: corretta l'anomalia di selezione caratteri su documenti commerciali, ordini complessi e fatture.",
+    "📝 Digitazione su sfondo e contrasto Dark Mode: eliminato il blocco bianco coprente e garantita massima visibilità su qualsiasi sfondo o tema.",
+    "🛡️ Sanitizzazione intelligente su incolla: ripulitura istantanea di caratteri non validi o codifiche corrotte per prevenire quadratini vuoti (anti-tofu).",
+    "🔤 Catalogo font raddoppiato: aggiunti oltre 10 nuovi font professionali tra cui Century Gothic, Garamond, Palatino, Bookman, Impact, Corbel, Candara e Constantia."
   ]
 }
