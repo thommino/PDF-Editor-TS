@@ -1,15 +1,15 @@
 {
-  "latest_version": "1.5.6",
+  "latest_version": "1.5.7",
   "min_required_version": "1.5.0",
   "release_date": "2026-10-31",
   "title": "Nuova versione disponibile!",
   "store_url": "ms-windows-store://pdp/?ProductId=9P2QFGQZJBBG",
   "web_url": "https://apps.microsoft.com/detail/9P2QFGQZJBBG",
   "changelog": [
+    "⚡ Hotfix Avvio & Stabilità: risolta l'anomalia di avvio della finestra principale e perfezionato l'aggancio nativo dell'icona alla barra delle applicazioni.",
     "🎨 Nuovo Branding Ufficiale TS CodeCraft: icona 'Dual Forge' ad alta definizione (foglio ardesia e stilo dorato), nuovi splash screen e tile Start per Windows.",
     "ℹ️ Finestra Informazioni rinnovata: firma ufficiale Thomas Scalise, link Instagram (@tscodecraft), manifesto 'Nessun abbonamento, privacy 100% offline' e assistenza diretta via email (infotscodecraft@gmail.com).",
     "📐 Ridimensionamento ed espansione interattiva: maniglia di trascinamento laterale e d'angolo per allargare liberamente i campi modulo e auto-espansione dinamica del testo.",
-    "⚡ Risoluzione crash editing testo: corretta l'anomalia di selezione caratteri su documenti commerciali e fatture complesse per un'esperienza di modifica immediata e stabile al 100%.",
     "🛡️ Sanitizzazione intelligente su incolla: ripulitura istantanea di caratteri non validi o codifiche corrotte da PDF e gestionali per prevenire quadratini vuoti (anti-tofu)."
   ]
 }
